@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://flight_data_ETL_pipeline",
+            "request": "launch",
+            "url": "http://flight_data_ETL_pipeline"
+        }
+    ]
+}
